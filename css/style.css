@@ -95,7 +95,7 @@ section img{
 
 
 
-    header img;{
+    header img{
         margin: 32px 0 0 16px;
     }
 
@@ -107,6 +107,8 @@ section img{
     p{
         width: 341px;
         font-size: 20px;
+        margin: 0 auto;
+        
     }
     
     a{
